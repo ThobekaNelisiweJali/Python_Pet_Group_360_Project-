@@ -1,4 +1,5 @@
-## Digital Pet Simulator 
+# Digital Pet Simulator 
+
 
 This is a fun, interactive **object-oriented Python program** that simulates taking care of a virtual pet. The pet has its own hunger, energy, happiness levels, and can learn tricks over time. You can feed it, play with it, let it sleep, train it, and track its well-being.
 
